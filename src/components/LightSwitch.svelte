@@ -1,6 +1,7 @@
 <script>
 
   let leftColor = "bg-white text-slate-900"
+  
 
   export let switchState = "On"
 
